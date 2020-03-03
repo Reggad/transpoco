@@ -7,6 +7,9 @@ Windows: https://phoenixnap.com/kb/install-node-js-npm-on-windows
 N.B. This application has only been tested on Ubuntu and may not work correctly on Windows.
 
 Usage:
+Starting the server:
+Navigate to the root directory of the project and then run "node server.js"
+
 By default the app is set to listen on port 8080. This can be changed in the server.js file.
 This API has two methods:
 /api/ranks
